@@ -4,15 +4,7 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+Preferred Transport Systems is located in the city of Long Beach, California approximately three miles from the port of Los Angeles/Long Beach. PTS provides special handling for international transport with an outstanding record for shipping difficult items intact and ontime.
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
-
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
-
-
-[jekyll-organization]: https://github.com/jekyll
+If you need to ship something special be sure to contact us right away.
+![View of the port](/assets/GeraldDesmondBridge.jpg)
