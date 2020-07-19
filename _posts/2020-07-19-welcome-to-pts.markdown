@@ -8,5 +8,6 @@ Preferred Transport Systems provides special handling for international transpor
 
 Preferred Transport Systems can ship items that require special handling and care.
 ![Classic Automobile](/assets/ClassicAuto.jpg)
+![Submarine](/assets/SEAmagineSub.jpg)
 
 [services]: https://ptswarehouse.github.io/services
