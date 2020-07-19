@@ -4,7 +4,7 @@ title:  "Welcome to PTS Warehouse!"
 date:   2020-07-19 09:43:55 -0700
 categories: jekyll update
 ---
-Preferred Transport Systems provides special handling for international transport in and out of the Ports of Long Beach and Los Angeles.
+Preferred Transport Systems provides special handling for international transport in and out of the ports of Long Beach and Los Angeles.
 
 Preferred Transport Systems can ship items that require special handling and care.
 
